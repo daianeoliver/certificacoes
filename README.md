@@ -1,1 +1,1 @@
-Repositório criado para armazenar minhas certificações em miha jornada de aprendizado em TI
+Repositório criado para armazenar minhas certificações em minha jornada de aprendizado em TI.
